@@ -1,8 +1,8 @@
-weight: 4
-title: "Easy to customize"
-description: >
+weight: 5
+title: "Enkelt å redigere"
+description: |
   <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
+    <li>Så lett at selv Sjefen klarer det!</li>
+    <li>Hostet i github og greier.</li>
   </ul>
-image: "img/carousel/template-easy-code.png"
+image: img/carousel/template-easy-code.png

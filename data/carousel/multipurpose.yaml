@@ -1,4 +1,8 @@
-weight: 1
-title: "Multipurpose responsive theme"
-description: "<p>Business. Corporate. Agency.<br>Portfolio. Blog. E-commerce.</p>"
-image: "img/carousel/template-homepage.png"
+weight: 2
+title: Uten bilde
+description: |-
+  <ul class="list-style-none">
+    <li>Av og til er tusen ord bedre enn et bilde!</li>
+    <li>Her kan man skrive inn en liten novelle, dersom man ønsker det.</li>
+    <li>Lenke til <a href="http://www.pointtaken.no">Point Taken</a></li>
+  </ul>
