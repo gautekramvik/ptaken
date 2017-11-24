@@ -158,16 +158,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://gautekramvik.github.io/ptaken/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gautekramvik.github.io/ptaken/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
-    </item>
-    
-    <item>
       <title>FAQ</title>
       <link>https://gautekramvik.github.io/ptaken/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -175,6 +165,15 @@ Please feel free to contact us, our customer service center is working for you 2
       <guid>https://gautekramvik.github.io/ptaken/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://gautekramvik.github.io/ptaken/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/contact/</guid>
+      <description>Vi er her for å hjelpe Dem! Lurer du på noe? Vi er her for å hjelpe Dem med nærsagt hva som helst! Hva. Som. Helst. Trenger du en hardisk med SharePoint? Vi har det. Trenger du en hardisk med CRM? Vi har det også. Begynner du å gå tom for Powershell i hardisken din? Ta det helt med ro, våre vakre konsulenter fyller opp tanken så full av Powershell at den flommer over!</description>
     </item>
     
   </channel>
