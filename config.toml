@@ -1,5 +1,5 @@
 baseurl = "https://gautekramvik.github.io/ptaken/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "no"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
@@ -14,7 +14,7 @@ blog = "/blog/:year/:month/:day/:filename/"
 
 [[menu.main]]
 name = "REFERANSER"
-url = "#testimonials"
+url = "/index.html#testimonials"
 weight = 5
 
 [[menu.main]]
