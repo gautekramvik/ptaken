@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/ptaken/kurs/</loc>
+    <lastmod>2017-11-24T12:06:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/azure/</loc>
+    <lastmod>2017-11-24T12:06:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/sikkerhet/</loc>
+    <lastmod>2017-11-24T12:06:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/teams/</loc>
+    <lastmod>2017-11-24T12:05:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/nintex/</loc>
+    <lastmod>2017-11-24T12:05:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/r%C3%A5dgivning/</loc>
+    <lastmod>2017-11-24T12:05:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/office365/</loc>
+    <lastmod>2017-11-24T12:05:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/sharepoint/</loc>
+    <lastmod>2017-11-24T12:05:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/om-oss/</loc>
+    <lastmod>2017-11-24T12:04:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/crm/</loc>
+    <lastmod>2017-11-24T12:04:09+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/ptaken/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -78,18 +128,18 @@
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/ptaken/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-11-24T12:06:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>

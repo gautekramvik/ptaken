@@ -11,9 +11,9 @@
 				<div class="col-md-4">
                     <div class="box-simple">
                         <div class="icon">
-                            <i class="{{ .icon }}"></i>
+                            <a href="{{ $element.name }}"><i class="{{ .icon }}"></i></a>
                         </div>
-                        <h3>{{ $element.name }}</h3>
+                        <h3><a href="{{ $element.name }}">{{ $element.name }}</a></h3>
                         <p>{{ $element.description | markdownify }}</p>
                     </div>
                 </div>

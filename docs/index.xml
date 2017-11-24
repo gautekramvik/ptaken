@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2017 12:06:14 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/ptaken/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kurs</title>
+      <link>https://gautekramvik.github.io/ptaken/kurs/</link>
+      <pubDate>Fri, 24 Nov 2017 12:06:14 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/kurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://gautekramvik.github.io/ptaken/azure/</link>
+      <pubDate>Fri, 24 Nov 2017 12:06:09 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sikkerhet</title>
+      <link>https://gautekramvik.github.io/ptaken/sikkerhet/</link>
+      <pubDate>Fri, 24 Nov 2017 12:06:01 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/sikkerhet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teams</title>
+      <link>https://gautekramvik.github.io/ptaken/teams/</link>
+      <pubDate>Fri, 24 Nov 2017 12:05:54 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/teams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nintex</title>
+      <link>https://gautekramvik.github.io/ptaken/nintex/</link>
+      <pubDate>Fri, 24 Nov 2017 12:05:48 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/nintex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rådgivning</title>
+      <link>https://gautekramvik.github.io/ptaken/r%C3%A5dgivning/</link>
+      <pubDate>Fri, 24 Nov 2017 12:05:40 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/r%C3%A5dgivning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office365</title>
+      <link>https://gautekramvik.github.io/ptaken/office365/</link>
+      <pubDate>Fri, 24 Nov 2017 12:05:20 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/office365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharepoint</title>
+      <link>https://gautekramvik.github.io/ptaken/sharepoint/</link>
+      <pubDate>Fri, 24 Nov 2017 12:05:11 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Om Oss</title>
+      <link>https://gautekramvik.github.io/ptaken/om-oss/</link>
+      <pubDate>Fri, 24 Nov 2017 12:04:19 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/om-oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crm</title>
+      <link>https://gautekramvik.github.io/ptaken/crm/</link>
+      <pubDate>Fri, 24 Nov 2017 12:04:09 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/crm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
