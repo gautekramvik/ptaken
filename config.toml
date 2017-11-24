@@ -5,7 +5,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = 10
 publishDir = "docs"
-theme = "hugo-universal-theme"
+theme = "ptheme"
 themesDir = "themes"
 title = "Point Taken"
 

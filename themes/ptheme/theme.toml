@@ -1,21 +1,17 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
-
-name = "Ptheme"
+name = "Universal"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-description = ""
-homepage = "http://example.com/"
-tags = []
-features = []
-min_version = "0.27.1"
+licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
+description = "A port of the Universal theme"
+homepage = "//github.com/devcows/hugo-universal-theme"
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["blog", "themes", "disqus", "minimal", "responsive"]
+min_version = 0.15
 
 [author]
-  name = ""
-  homepage = ""
+    name = "adrianmo"
+    homepage = "//github.com/adrianmo"
 
-# If porting an existing theme
+# If Porting existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+    author =  "bootstrapious"
+    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Go on Universal</title>
+    <title>Go on Point Taken</title>
     <link>https://gautekramvik.github.io/ptaken/tags/go/</link>
-    <description>Recent content in Go on Universal</description>
+    <description>Recent content in Go on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/ptaken/tags/go/index.xml" rel="self" type="application/rss+xml" />
