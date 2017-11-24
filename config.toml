@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://gautekramvik.github.io/ptaken"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "themes"
