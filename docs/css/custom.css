@@ -139,11 +139,18 @@
     width: 20%;
   }
 
-/*Microsoft 365*/
-.splash {
-  background: url('../img/write.jpg');
+/*INFOSIDER*/
+.splash. {
   background-repeat: no-repeat;
   background-position: center center;
+}
+.splash.w-teams {
+  background: url('../img/write.jpg');
+  background-size: cover;
+}
+.splash.w-sharepoint {
+  background:  linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/action.jpg');
+  background-size: cover;
 }
 .splash-wrapper {
   display: flex;

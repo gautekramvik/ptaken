@@ -4,7 +4,7 @@ date: 2017-11-24T12:05:54+01:00
 draft: false
 ---
 
-<div class="splash">
+<div class="splash  w-teams">
 <div class="splash-wrapper">
     <div class="splash-img">
     </div>
