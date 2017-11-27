@@ -140,7 +140,7 @@
   }
 
 /*INFOSIDER*/
-.splash. {
+.splash {
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -150,6 +150,23 @@
 }
 .splash.w-sharepoint {
   background:  linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/action.jpg');
+  background-size: cover;
+}
+.splash.w-office {
+  background:  url('../img/office1.jpeg');
+  background-size: cover;
+}
+.splash.w-kurs {
+  background:  url('../img/office1.jpeg');
+  background-size: cover;
+}
+.splash.w-azure {
+  background:  url('../img/azurecloudbusiness.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.splash.w-sikkerhet {
+  background:  url('../img/security.jpeg');
   background-size: cover;
 }
 .splash-wrapper {
@@ -327,7 +344,7 @@
   line-height: 2;
   list-style: none;
 }
-.ad-info li i {
+.ad-info i {
   margin-right: 1rem;
 }
 .ad-info-left li i {
