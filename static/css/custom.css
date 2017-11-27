@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Baloo+Tamma');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
 
 .box-image-text .image {
   min-height: 200px;
@@ -38,8 +38,8 @@
 }
 
 #heading-breadcrumbs {
-  background: url(../img/pattern2.svg);
-  background-size: cover;
+  /* background: url(../img/pattern2.svg);
+  background-size: cover; */
 }
 
 .box-simple .icon {
@@ -91,9 +91,8 @@
   text-align: center;
   font-size: 5em;
   color: #fff;
-  font-family: 'Roboto';
+  font-family: 'Arvo';
   font-weight: 300;
-  /* background-color: #dc3535bf; */
 }
 
 @media (max-width: 991px) {
@@ -114,7 +113,6 @@
   font-size: 2em;
   color: #f5f5f5;
   margin-top: 2rem;
-  font-family: 'Baloo Tamma', cursive;
 }
 
 .slagord .arrow {
@@ -140,3 +138,186 @@
     outline: 1px solid green;
     width: 20%;
   }
+
+/*Microsoft 365*/
+.splash {
+  background: url('../img/write.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.splash-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  padding: 20rem;
+}
+@media (max-width: 767px) {
+  .splash-wrapper {
+    padding: 10rem;
+  }
+}
+.splash-slogan {
+  color: #fff;
+  font-size: 3em;
+  text-shadow: 2px 2px #22222261;
+}
+@media (max-width: 767px) {
+  .splash-slogan {
+    font-size: 2em;
+  }
+}
+.splash-btn {
+  font-size: 1.25em;
+  align-self: center;
+  margin-top: 2rem;
+}
+
+.splash-btn a {
+  padding: 1rem 2rem;  
+  background: #449d44;
+  border-color: #398439; 
+  color: #fff;
+  border-radius: 4px;
+}
+  .splash-btn a:hover {
+    background: #40ab40;
+    text-decoration: none;
+  }
+.ad-about {
+  background-color: white;
+}
+.ad-about-text {
+  font-size: 1.5em;
+  font-family:'Roboto';
+  padding: 3rem 1rem;
+}
+.testimonials {
+  padding: 2rem 0;
+}
+.avatar img {
+  border-radius: 50%;
+  max-width: 200px;
+}
+.card {
+    padding-top: 20px;
+    margin: 10px 0 20px 0;
+    background-color: rgba(214, 224, 226, 0.2);
+    border-top-width: 0;
+    border-bottom-width: 2px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.card .card-heading {
+    padding: 0 20px;
+    margin: 0;
+}
+
+.card .card-body {
+    padding: 0 20px;
+    margin-top: 20px;
+}
+
+.card.hovercard {
+    position: relative;
+    padding-top: 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: rgba(214, 224, 226, 0.2);
+}
+
+.card.hovercard .avatar {
+    position: relative;
+}
+
+.card.hovercard .avatar img {
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: 5px solid rgba(255,255,255,0.5);
+}
+
+.card.hovercard .info {
+    padding: 4px 8px 10px;
+}
+
+.card.hovercard .info .title {
+    margin-bottom: 4px;
+    font-size: 24px;
+    line-height: 1;
+    color: #262626;
+    vertical-align: middle;
+}
+
+.card.hovercard .info .desc {
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 20px;
+    color: #737373;
+    text-overflow: ellipsis;
+}
+.card.hovercard .bottom {
+    padding: 0 20px;
+    margin-bottom: 17px;
+}
+.ad-info {
+  background: #e4f4fd;
+  margin-bottom: 3rem;
+}
+.ad-info-wrapper {
+  display: flex;
+  font-size: 1.25em;
+  padding: 1rem;
+  margin-bottom: 3rem;
+}
+@media (max-width: 767px) {
+  .ad-info-wrapper {
+    flex-direction: column;
+  }
+}
+.ad-info-left,
+.ad-info-right {
+  width: 50%;
+  padding: 2rem;
+}
+@media (max-width: 767px) {
+.ad-info-left,
+.ad-info-right {
+  width: 100%;
+}
+}
+.ad-info-left {
+  padding-bottom: 0rem;
+}
+.ad-info-left img {
+  max-width:100%;
+}
+.ad-info li {
+  line-height: 2;
+  list-style: none;
+}
+.ad-info li i {
+  margin-right: 1rem;
+}
+.ad-info-left li i {
+  color: #47c547;
+}
+.ad-info-title {
+  font-size: 1.5em;
+}
+.ad-info .splash-btn {
+  text-align: center;
+  padding-bottom: 5rem;
+}
