@@ -276,11 +276,23 @@
   background: #e4f4fd;
   margin-bottom: 3rem;
 }
+.ad-info .yellow {
+  background: #fafde4;
+}
+.ad-info .green {
+  background: #e4fde6;
+}
 .ad-info-wrapper {
   display: flex;
   font-size: 1.25em;
   padding: 1rem;
   margin-bottom: 3rem;
+}
+.ad-info-wrapper.tekst {
+  flex-direction: column;
+}
+.ad-info-wrapper.tekst p {
+  margin-bottom: 2rem;;
 }
 @media (max-width: 767px) {
   .ad-info-wrapper {
@@ -320,4 +332,5 @@
 .ad-info .splash-btn {
   text-align: center;
   padding-bottom: 5rem;
+  font-size: 16px;
 }
