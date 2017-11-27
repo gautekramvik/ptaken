@@ -16,7 +16,6 @@
 
 .navbar-default .navbar-nav>li>a {
   color: #424242;
-  /* font-size: 1.25em; */
 }
 
 .box-simple p {
@@ -181,6 +180,11 @@
     padding: 10rem;
   }
 }
+@media (max-width: 575) {
+  .splash-wrapper {
+    padding: 2rem;
+  }
+}
 .splash-slogan {
   color: #fff;
   font-size: 3em;
@@ -194,7 +198,8 @@
 .splash-btn {
   font-size: 1.25em;
   align-self: center;
-  margin-top: 2rem;
+  text-align: center;
+  margin: 2rem 0;
 }
 
 .splash-btn a {
@@ -238,6 +243,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    outline: 1rem solid #fff;
 }
 
 .card .card-heading {
@@ -296,19 +302,23 @@
     padding: 0 20px;
     margin-bottom: 17px;
 }
-.ad-info {
+.ad-info,
+.background-blue {
   background: #e4f4fd;
-  margin-bottom: 3rem;
+  padding: 2rem .5rem;
+  font-size: 1.25em;
 }
-.ad-info .yellow {
+
+.ad-info .yellow,
+.background-yellow {
   background: #fafde4;
 }
-.ad-info .green {
+.ad-info .green,
+.background-green {
   background: #e4fde6;
 }
 .ad-info-wrapper {
   display: flex;
-  font-size: 1.25em;
   padding: 1rem;
   margin-bottom: 3rem;
 }
