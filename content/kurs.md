@@ -8,9 +8,7 @@ draft: false
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Office 365 kurs og opplæring
         </div>
-        <div class="splash-btn">
-            <a href="../contact">Fortell meg mer</a>
-        </div>    
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a> 
     </div>
 </div>
 
@@ -106,9 +104,7 @@ draft: false
     </div>
 </div>
 <div class="row">  
-    <div class="splash-btn">
-        <a href="../contact">Ta kontakt</a>
-    </div>
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a> 
 </div>
 
 <style>

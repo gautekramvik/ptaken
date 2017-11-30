@@ -8,9 +8,7 @@ draft: false
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Arbeidsflyter i SharePoint og Office 365
         </div>
-        <div class="splash-btn">
-            <a href="../contact">Fortell meg mer</a>
-        </div>    
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
     </div>
 </div>
 
@@ -30,8 +28,6 @@ draft: false
         <h3 style="margin-top:0">Hvorfor Point Taken?</h3>
     <p class="lead">Skrytetekst om at vi har Norges største Nintex-miljø. Dessuten har vi Fredrik, som er  Nintex VTE (Nintex Virtual Technical Evangelist). Fredrik har alle Nintex sertifiseringene, og er Europas ledende spesialist på Nintex. Det er Fredrik, det </p> 
         </ul>
-        <div class="splash-btn">
-            <a href="../contact">Jeg vil snakke med Fredrik!</a>
-        </div>         
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>        
     </div>
 </div>

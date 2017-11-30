@@ -8,9 +8,7 @@ draft: false
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Sikkerhetsløsninger for din virksomhet
         </div>
-        <div class="splash-btn">
-            <a href="../contact">Fortell meg mer</a>
-        </div>    
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
     </div>
 </div>
 
@@ -34,8 +32,6 @@ draft: false
     <p class="lead">Med de riktige verktøyene vil du til enhver tid få oversikt over forsøk på svindel, intrengning og distribusjon av skadelig programvare. I tillegg kan man teste egen sikkerhet for å avdekke mulige svakheter. Man kan også oppdage unormal aktivitet fra egne ansatte og korrigere avvik. Hva gjør du ved avvik eller brudd på sikkerheten. Her er det viktig med gode vektøy og rutiner. Isolere hendelsen, sikre egne data og gjennopprette normaltilstand så raskt som mulig.</p>
     <h3 style="margin-top:0">Respondere</h3>
     <p class="lead">Hva gjør du ved avvik eller brudd på sikkerheten. Her er det viktig med gode vektøy og rutiner. Isolere hendelsen, sikre egne data og gjennopprette normaltilstand så raskt som mulig.</p>
-    <div class="splash-btn">
-        <a href="../contact">Vis meg en demo!</a>
-    </div>               
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>           
     </div>    
 </div>

@@ -8,9 +8,7 @@ draft: false
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan"> CRM - en venn i nøden
         </div>
-        <div class="splash-btn">
-            <a href="../contact">Fortell meg mer</a>
-        </div>    
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a> 
     </div>
 </div>
 

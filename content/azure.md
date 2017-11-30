@@ -8,9 +8,7 @@ draft: false
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Azure - gjennom skyen til framtiden 
         </div>
-        <div class="splash-btn">
-            <a href="../contact">Fortell meg mer</a>
-        </div>    
+        <a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a> 
     </div>
 </div>
 
@@ -20,8 +18,6 @@ draft: false
         <p class="lead">Point Taken leverer utvikling og drift på Azure-plattformen. Vi hjelper deg å ta i bruk tjenester som gir deg verdi fra første stund.
 Ta kontakt for å lære mer.</p>        
     </div>
-    <div class="splash-btn">
-        <a href="../contact">Ta kontakt for et møte</a>
-    </div>         
+<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
 </div>
 
