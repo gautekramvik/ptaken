@@ -24,7 +24,7 @@ Microsoft teams er en chatbasert arbeidsflate som gir nye samhandlingsmuligheter
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-6">
-        <img class="img-responsive" src="../img/teamspt.png"></img>        
+        <img class="img-fluid" src="../img/teamspt.png"></img>        
     </div>
     <div class="col-sm-12 col-lg-6">
         <h3 style="margin-top:0">Hvem passer Teams for?</h3>
@@ -45,14 +45,14 @@ Microsoft teams er en chatbasert arbeidsflate som gir nye samhandlingsmuligheter
     </div>       
     </div>
     <div class="col-sm-12 col-lg-3">
-    <img class="img-responsive" style="margin-bottom:2rem" src="../img/vaerp.jpg"></img>  
-    <img class="img-responsive" style="max-width:200px" src="../img/mvp.png"></img>  
+    <img class="img-fluid" style="margin-bottom:2rem" src="../img/vaerp.jpg"></img>  
+    <img class="img-fluid" style="max-width:200px" src="../img/mvp.png"></img>  
     </div>
 </div>
 
 <div class="row background-yellow ad-info">
     <div class="col-12">
-        <img class="img-responsive" src="../img//O16_Teams.jpg"></img>        
+        <img class="img-fluid" src="../img//O16_Teams.jpg"></img>        
     </div>
     <div class="col-12">
         <h3>Samtaler for grupper (chat)</h3>
@@ -82,7 +82,7 @@ Microsoft teams er en chatbasert arbeidsflate som gir nye samhandlingsmuligheter
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-6">
-        <img class="img-responsive" src="../img/teamsboth.png"></img>      
+        <img class="img-fluid" src="../img/teamsboth.png"></img>      
         <div class="splash-btn">
             <a href="../contact">Ta kontakt</a>
         </div>             

@@ -23,7 +23,7 @@ draft: false
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-6">
-        <img class="img-responsive" src="../img/security1.png"></img>          
+        <img class="img-fluid" src="../img/security1.png"></img>          
     </div>
     <div class="col-sm-12 col-lg-6">
         <h3 style="margin-top:0">Beskytte</h3>

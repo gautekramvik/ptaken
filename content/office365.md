@@ -23,7 +23,7 @@ draft: false
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-6">
-        <img class="img-responsive" src="../img/o365menu.PNG"></img>        
+        <img class="img-fluid" src="../img/o365menu.PNG"></img>        
     </div>
     <div class="col-sm-12 col-lg-6">
         <h3 style="margin-top:0">Hva inneholder Office 365?</h3>
@@ -37,7 +37,7 @@ draft: false
 
 <div class="row background-yellow ad-info">
     <div class="col-12">
-        <img class="img-responsive" src="../img/O16_Teams.jpg"></img>        
+        <img class="img-fluid" src="../img/O16_Teams.jpg"></img>        
     </div>
     <div class="col-12">
         <h3>Office-pakken</h3>

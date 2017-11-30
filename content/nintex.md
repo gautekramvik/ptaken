@@ -23,8 +23,8 @@ draft: false
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-4">
-        <img class="img-responsive" style="max-width:300px"src="../img/people/fredrik.jpg"></img>    
-        <img class="img-responsive" src="../img/nintex-premier-partner.png"></img>        
+        <img class="img-fluid" style="max-width:300px"src="../img/people/fredrik.jpg"></img>    
+        <img class="img-fluid" src="../img/nintex-premier-partner.png"></img>        
     </div>
     <div class="col-sm-12 col-lg-8">
         <h3 style="margin-top:0">Hvorfor Point Taken?</h3>

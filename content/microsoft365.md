@@ -72,7 +72,7 @@ draft: false
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-6 ad-info-left">
-        <img class="img-responsive" src="../img/startup-photos.jpg"></img>
+        <img class="img-fluid" src="../img/startup-photos.jpg"></img>
         <ul>
             <li><i class="fa fa-check" aria-hidden="true"></i>Hva er Microsoft 365, egentlig?</li>
             <li><i class="fa fa-check" aria-hidden="true"></i>Hvorfor skal VI selge det?</li>

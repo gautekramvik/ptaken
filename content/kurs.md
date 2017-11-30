@@ -23,7 +23,7 @@ draft: false
 
 <div class="row background-blue ad-info">
     <div class="col-sm-12 col-lg-6">
-        <img class="img-responsive" src="../img/startup-photos.jpg"></img>        
+        <img class="img-fluid" src="../img/startup-photos.jpg"></img>        
     </div>
     <div class="col-sm-12 col-lg-6">
         <h3 style="margin-top:0">Hvorfor Point Taken?</h3>
@@ -112,25 +112,11 @@ draft: false
 </div>
 
 <style>
-.avatar img {
-  border-radius: 50%;
-  max-width: 200px;
-}
+
 .card {
     padding-top: 20px;
-    margin: 10px 0 20px 0;
     background-color: rgba(214, 224, 226, 0.2);
-    border-top-width: 0;
-    border-bottom-width: 2px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    border: 0;
     outline: 1rem solid #fff;
 }
 
