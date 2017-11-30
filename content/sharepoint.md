@@ -39,6 +39,55 @@ draft: false
     </div>
 </div>
 
+<div class="row">
+    <div class="heading text-center">
+        <h2>Hvor er du nå?</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="card" style="min-height:333px">
+            <img class="card-img-top " src="../img/laptop.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="card-title">Jeg ønsker å lære mer om SharePoint</h4>
+                <p class="card-text">Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</p>
+                <a href="#" class="btn btn-primary">Klikk her</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="card" style="min-height:333px">
+            <img class="card-img-top" src="../img/office_meeting.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="card-title">Jeg ønsker å implementere SharePoint</h4>
+                <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</p>
+                <a href="#" class="btn btn-primary">Klikk her</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="card" style="min-height:333px">
+            <img class="card-img-top" src="../img/laptop.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="card-title">Jeg trenger hjelp med SharePoint</h4>
+                <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</p>
+                <a href="#" class="btn btn-primary">Klikk her</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="card" style="min-height:333px">
+            <img class="card-img-top" src="../img/office_meeting.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="card-title">Jeg trenger kurs i SharePoint</h4>
+                <p class="card-text">Jeg trenger å lære mer om hvordan bruker SharePoint på best mulig måte.</p>
+                <a href="#" class="btn btn-primary">Klikk her</a>
+            </div>
+        </div>
+    </div>               
+</div>
+
 <div class="row background-yellow ad-info">
     <div class="col-12">
         <img class="img-responsive" src="../img/office_meeting.jpg"></img>        
