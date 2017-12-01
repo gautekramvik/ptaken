@@ -4,4 +4,6 @@ draft = true
 title = "Testblogg"
 
 +++
+![](/img/slide6.jpg)
 
+# Overskrift
