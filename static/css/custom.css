@@ -46,6 +46,7 @@
 #heading-breadcrumbs {
   /* background: url(../img/pattern2.svg);
   background-size: cover; */
+  padding: 0;
 }
 
 .box-simple .icon {
