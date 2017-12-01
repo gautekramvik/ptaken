@@ -31,7 +31,7 @@ draft: false
             <div class="card-body">
                 <h4 class="card-title">Jeg vil vite mer om Dynamics 365</h4>
                 <p class="card-text">Jeg er interessert i CRM, og ønsker å lære mer om det grunnleggende.</p>
-                <a href="#" class="btn btn-primary">Klikk her</a>
+                <a href="dynamics-365" class="btn btn-primary">Klikk her</a>
             </div>
         </div>
     </div>

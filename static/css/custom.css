@@ -49,8 +49,9 @@
 }
 
 .box-simple .icon {
-  background-image: url(../img/pattern1.svg);
+  /* background-image: url(../img/pattern1.svg); */
   font-size: 3em;
+  background-color: #da4d4d;
   border-radius: 0;
 }
 
