@@ -24,8 +24,6 @@ Point Taken tilbyr kurs i SharePoint og Office 365, og flere av våre konsul
 
 Point Taken er en del av Nova Consulting Group, som består av 5 spesialistselskaper med til sammen mer enn 115 ansatte. Vi «bor» sammen med våre søsterselskaper er Epinova, Novanet, Novacare, Nothern Beat, og vi har derfor en unik mulighet til å sette sammen spesialiserte team som dekker våre kunders behov. 
 
-![](http://www.pointtaken.no/media/1171/sykkel1.jpg "Point Taken sykler Rallarvegen")
-
 ### Jobbe hos oss?
 
 Point Taken leter hele tiden etter nye dyktige medarbeidere. Ikke vent på en stillingsutlysning eller telefon fra oss. Ta kontakt med Rune for en uforpliktende samtale.
