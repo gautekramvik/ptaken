@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Point Taken</title>
+    <title>Categories on Point Taken</title>
     <link>https://gautekramvik.github.io/ptaken/categories/</link>
-    <description>Recent content on Point Taken</description>
+    <description>Recent content in Categories on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
@@ -13,21 +13,57 @@
     
     
     <item>
-      <title>Forestryblog 2</title>
-      <link>https://gautekramvik.github.io/ptaken/blog/2017/12/04/forestryblog-2/</link>
+      <title></title>
+      <link>https://gautekramvik.github.io/ptaken/categories/</link>
       <pubDate>Mon, 04 Dec 2017 11:32:09 +0000</pubDate>
       
-      <guid>https://gautekramvik.github.io/ptaken/blog/2017/12/04/forestryblog-2/</guid>
-      <description>Innhold</description>
+      <guid>https://gautekramvik.github.io/ptaken/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Forestryblog</title>
-      <link>https://gautekramvik.github.io/ptaken/blog/2017/12/04/forestryblog/</link>
+      <title>Lorem</title>
+      <link>https://gautekramvik.github.io/ptaken/categories/lorem/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://gautekramvik.github.io/ptaken/categories/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo</title>
+      <link>https://gautekramvik.github.io/ptaken/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharepoint</title>
+      <link>https://gautekramvik.github.io/ptaken/categories/sharepoint/</link>
       <pubDate>Mon, 04 Dec 2017 11:26:39 +0000</pubDate>
       
-      <guid>https://gautekramvik.github.io/ptaken/blog/2017/12/04/forestryblog/</guid>
-      <description>Testblogg - min første. Her kommer det litt tekst.</description>
+      <guid>https://gautekramvik.github.io/ptaken/categories/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting</title>
+      <link>https://gautekramvik.github.io/ptaken/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/categories/starting/</guid>
+      <description></description>
     </item>
     
   </channel>
