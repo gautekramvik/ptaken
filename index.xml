@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 04 Dec 2017 11:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2017 11:37:11 +0000</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/ptaken/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bannertest</title>
+      <link>https://gautekramvik.github.io/ptaken/blog/2017/12/04/bannertest/</link>
+      <pubDate>Mon, 04 Dec 2017 11:37:11 +0000</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/blog/2017/12/04/bannertest/</guid>
+      <description> Tjobing. </description>
+    </item>
     
     <item>
       <title>Forestryblog 2</title>
