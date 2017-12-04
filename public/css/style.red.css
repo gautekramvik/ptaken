@@ -235,9 +235,9 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
-  color: #eeeeee;
-  padding: 10px 0;
+  /* background: #555555; */
+  /* color: #eeeeee; */
+  /* padding: 10px 0; */
 }
 #top p {
   margin: 0;
@@ -248,7 +248,7 @@ ul.list-style-none {
   text-align: right;
 }
 #top .social a {
-  color: #999999;
+  color: #333;
   display: inline-block;
   width: 24px;
   height: 24px;
@@ -3153,10 +3153,10 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  /* font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #555555; */
 }
 a {
   color: #da4d4d;

@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo');
 
+body {
+  font-family: Camphor, Open Sans, Segoe UI, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -15,7 +22,6 @@
 }
 @media (max-width: 767px) {
   .navbar-nav {
-      /* background: #fff; */
     }
 }
 
@@ -23,6 +29,11 @@
   font-size: 1.25em;
   font-weight: 600;
   color: rgb(51, 56, 56);
+}
+@media (max-width: 992px) {
+  .navbar-light .navbar-nav .nav-link {
+    color: rgb(204, 199, 199);
+  }
 }
 
 .box-simple p {
@@ -67,8 +78,22 @@
 
 .navbar-brand>img {
   height: 25px;
-  /* margin-top: 1rem; */
 }
+@media (max-width: 992px) {
+  .navbar-brand>img,
+  .navbar-light .navbar-toggler-icon {
+    filter: invert(100%);
+  }
+  .bg-transparent {
+    background-color: #24292e !important; 
+  }
+}
+@media (max-width: 767px) {
+  .navbar-brand>img {
+    height: 15px;
+  }
+}
+
 
 .customers .item img {
   max-height: 85px;
@@ -88,7 +113,7 @@
   padding-top: 10rem;
 }
 
-@media (max-width: 770px) {
+@media (max-width: 992px) {
   .slagord {
     padding-top: 10rem;
     margin-top: 0;
@@ -104,7 +129,7 @@
   font-weight: 300;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 992px) {
   .slagordtekst {
     font-size: 2em;
   }

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2017 11:26:39 +0000</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/ptaken/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://gautekramvik.github.io/ptaken/tags/</link>
+      <pubDate>Mon, 04 Dec 2017 11:26:39 +0000</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Go</title>
@@ -45,6 +54,15 @@
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://gautekramvik.github.io/ptaken/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nyheter</title>
+      <link>https://gautekramvik.github.io/ptaken/tags/nyheter/</link>
+      <pubDate>Mon, 04 Dec 2017 11:26:39 +0000</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/tags/nyheter/</guid>
       <description></description>
     </item>
     

@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gautekramvik.github.io/ptaken/page/test/</loc>
-    <lastmod>2017-12-01T13:43:45+01:00</lastmod>
+    <loc>https://gautekramvik.github.io/ptaken/blog/2017/12/04/forestryblog/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
   </url>
   
   <url>
@@ -88,13 +88,26 @@
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/ptaken/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/ptaken/tags/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/categories/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/blog/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/categories/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,25 +150,25 @@
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/ptaken/page/</loc>
-    <lastmod>2017-12-01T13:43:45+01:00</lastmod>
+    <loc>https://gautekramvik.github.io/ptaken/tags/nyheter/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/</loc>
-    <lastmod>2017-12-01T13:43:45+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/ptaken/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -167,6 +180,12 @@
   </url>
   
   <url>
+    <loc>https://gautekramvik.github.io/ptaken/categories/sharepoint/</loc>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/ptaken/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
@@ -174,7 +193,7 @@
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <lastmod>2017-12-04T11:26:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
