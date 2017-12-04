@@ -13,19 +13,9 @@ title = "Point Taken"
 blog = "/blog/:year/:month/:day/:filename/"
 
 [[menu.main]]
-name = "REFERANSER"
-url = "/index.html#testimonials"
-weight = 5
-
-[[menu.main]]
-name = "KONTAKT"
-url = "/contact/"
-weight = 4
-
-[[menu.main]]
-name = "OM OSS"
-url = "/om-oss/"
-weight = 3
+name = "HJEM"
+url = "/"
+weight = 1
 
 [[menu.main]]
 name = "BLOG"
@@ -33,15 +23,31 @@ url = "/blog/"
 weight = 2
 
 [[menu.main]]
-name = "HJEM"
-url = "/"
+name = "OM OSS"
+url = "/om-oss/"
+weight = 3
+
+[[menu.main]]
+name = "KONTAKT"
+url = "/contact/"
+weight = 4
+
+[[menu.main]]
+name = "REFERANSER"
+url = "/index.html#testimonials"
+weight = 5
+
+[[menu.topbar]]
+name = "Facebook"
+pre = "<i class='fa fa-2x fa-facebook'></i>"
+url = "http://facebook.com/pointtakenas"
 weight = 1
 
 [[menu.topbar]]
-name = "Email"
-pre = "<i class='fa fa-2x fa-envelope'></i>"
-url = "mailto:your@email.com"
-weight = 4
+name = "LinkedIn"
+pre = "<i class='fa fa-2x fa-linkedin'></i>"
+url = "https://www.linkedin.com/company/pointtaken-as"
+weight = 2
 
 [[menu.topbar]]
 name = "Twitter"
@@ -50,16 +56,16 @@ url = "http://twitter.com/Point_Taken_"
 weight = 3
 
 [[menu.topbar]]
-name = "Facebook"
-pre = "<i class='fa fa-2x fa-facebook'></i>"
-url = "http://facebook.com/pointtakenas"
-weight = 2
+name = "Email"
+pre = "<i class='fa fa-2x fa-envelope'></i>"
+url = "mailto:your@email.com"
+weight = 4
 
 [[menu.topbar]]
 name = "GitHub"
 pre = "<i class='fa fa-2x fa-github'></i>"
 url = "https://github.com/pointtaken"
-weight = 1
+weight = 5
 
 [params]
 about_us = "<p>Spesialister på SharePoint og Office 365.</p>"
@@ -111,7 +117,7 @@ title = "Referanser"
 
 [params.topbar]
 enable = false
-text = "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-envelope\"></i></a>\n      </p>\n      "
+text = ""
 
 [params.widgets]
 categories = true

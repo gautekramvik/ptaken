@@ -4,3 +4,4 @@ date: {{ .Date }}
 draft: true
 ---
 
+{{ partial "hero.html" . }}
