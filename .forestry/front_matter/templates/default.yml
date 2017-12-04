@@ -1,6 +1,4 @@
 ---
-pages:
-- blog/foerste-forestry-blogpost.md
 hide_body: false
 fields:
 - name: title
