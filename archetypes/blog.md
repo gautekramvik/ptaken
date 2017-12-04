@@ -3,7 +3,5 @@ title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 tags = [""]
 categories = [""]
-banner = ""
+banner = "img/banners/banner-1.jpg"
 +++
-
-{{ partial "social.html" . }}
