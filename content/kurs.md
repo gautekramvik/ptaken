@@ -104,7 +104,7 @@ type: page
     </div>
 </div>
 <div class="row">  
-<a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a> 
+<a class="btn btn-primary mx-auto" href="#" role="button" style="margin-bottom:3rem">Fortell meg mer!</a> 
 </div>
 
 <style>

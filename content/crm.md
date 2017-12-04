@@ -19,8 +19,10 @@ draft: false
 </div>
 
 <div class="row">
-    <div class="heading text-center">
-        <h2>Hvor er du nå?</h2>
+    <div class="col-12">
+        <div class="heading text-center">
+            <h2>Hvor er du nå?</h2>
+        </div>
     </div>
 </div>
 
