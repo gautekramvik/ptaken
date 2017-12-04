@@ -146,6 +146,7 @@ body {
 @media (max-width: 767px) {
   .slagord-sub {
     font-size: 1.25em;
+    display: none;
   }
 }
 .slagord .arrow {
