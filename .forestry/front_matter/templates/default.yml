@@ -1,4 +1,6 @@
 ---
+pages:
+- blog/bannertest.md
 hide_body: false
 fields:
 - name: title
