@@ -24,11 +24,11 @@ body {
   .navbar-nav {
     }
 }
-
 .navbar-light .navbar-nav .nav-link {
   font-size: 1.25em;
   font-weight: 600;
   color: rgb(51, 56, 56);
+  padding-right: 1rem;
 }
 @media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link {
@@ -146,6 +146,7 @@ body {
 @media (max-width: 767px) {
   .slagord-sub {
     font-size: 1.25em;
+    display: none;
   }
 }
 .slagord .arrow {
