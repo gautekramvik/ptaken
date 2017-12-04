@@ -4,5 +4,4 @@ draft = true
 title = "Første Forestry-blogpost"
 
 +++
-
-{{ partial "hero.html" . }}
+TEST TEST TEST !!
