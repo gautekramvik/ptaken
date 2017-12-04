@@ -3,9 +3,9 @@ title: Om Oss
 date: 2017-11-24 12:04:19 +0100
 description: ''
 keywords: []
-draft: false
----
+type: page
 
+---
 Point Taken er det ledende spesialistselskapet innen digital samhandling på Microsoft plattform og Nintex automasjon i Norge. Vi hjelper våre kunder å utnytte potensialet i å forenkle og samle virksomhetskritiske løsninger på en trygg plattform av standard programvare tilpasset hver enkelt kunde.  
   
 Point Taken er en av de høyest sertifiserte Microsoft Gullpartnere i Norge, noe som krever sertifiserte konsulenter, fornøyde kunder og en fokusert ledelse. Selskapet består utelukkende av seniorkonsulenter, som alle er spesialister med mange års erfaring.  

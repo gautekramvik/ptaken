@@ -1,9 +1,9 @@
 ---
-title: "Office365"
-date: 2017-11-24T12:05:20+01:00
-draft: false
----
+title: Office365
+date: 2017-11-24 12:05:20 +0100
+type: page
 
+---
 <div class="row splash w-office" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Din veiviser til Office 365

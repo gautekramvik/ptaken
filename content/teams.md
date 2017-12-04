@@ -1,9 +1,9 @@
 ---
-title: "Teams"
-date: 2017-11-24T12:05:54+01:00
-draft: false
----
+title: Teams
+date: 2017-11-24 12:05:54 +0100
+type: page
 
+---
 <div class="row splash w-teams" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">    Microsoft Teams - vær en lagspiller

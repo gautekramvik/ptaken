@@ -1,9 +1,9 @@
 ---
-title: "Azure"
-date: 2017-11-24T12:06:09+01:00
-draft: false
----
+title: Azure
+date: 2017-11-24 12:06:09 +0100
+type: page
 
+---
 <div class="row splash w-azure" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Azure - gjennom skyen til framtiden 

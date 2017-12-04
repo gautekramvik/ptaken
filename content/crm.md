@@ -1,9 +1,9 @@
 ---
-title: "Crm"
-date: 2017-11-24T12:04:09+01:00
-draft: false
----
+title: Crm
+date: 2017-11-24 12:04:09 +0100
+type: page
 
+---
 <div class="row splash w-crm" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan"> CRM - en venn i nøden

@@ -1,9 +1,9 @@
 ---
-title: "Sharepoint"
-date: 2017-11-24T12:05:11+01:00
-draft: false
----
+title: Sharepoint
+date: 2017-11-24 12:05:11 +0100
+type: page
 
+---
 <div class="row splash w-sharepoint" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">SharePoint - samhandnling på tvers av hele bedriften

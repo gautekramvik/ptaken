@@ -8,65 +8,53 @@ publishDir = "docs"
 theme = "ptheme"
 themesDir = "themes"
 title = "Point Taken"
-
 [Permalinks]
 blog = "/blog/:year/:month/:day/:filename/"
-
 [[menu.main]]
 name = "HJEM"
 url = "/"
 weight = 1
-
 [[menu.main]]
 name = "BLOG"
 url = "/blog/"
 weight = 2
-
 [[menu.main]]
 name = "OM OSS"
 url = "/om-oss/"
 weight = 3
-
 [[menu.main]]
 name = "KONTAKT"
 url = "/contact/"
 weight = 4
-
 [[menu.main]]
 name = "REFERANSER"
 url = "/index.html#testimonials"
 weight = 5
-
-[[menu.topbar]]
-name = "Facebook"
-pre = "<i class='fa fa-2x fa-facebook'></i>"
-url = "http://facebook.com/pointtakenas"
-weight = 1
-
-[[menu.topbar]]
-name = "LinkedIn"
-pre = "<i class='fa fa-2x fa-linkedin'></i>"
-url = "https://www.linkedin.com/company/pointtaken-as"
-weight = 2
-
-[[menu.topbar]]
-name = "Twitter"
-pre = "<i class='fa fa-2x fa-twitter'></i>"
-url = "http://twitter.com/Point_Taken_"
-weight = 3
-
-[[menu.topbar]]
-name = "Email"
-pre = "<i class='fa fa-2x fa-envelope'></i>"
-url = "mailto:your@email.com"
-weight = 4
-
 [[menu.topbar]]
 name = "GitHub"
 pre = "<i class='fa fa-2x fa-github'></i>"
 url = "https://github.com/pointtaken"
 weight = 5
-
+[[menu.topbar]]
+name = "LinkedIn"
+pre = "<i class='fa fa-2x fa-linkedin'></i>"
+url = "https://www.linkedin.com/company/pointtaken-as"
+weight = 2
+[[menu.topbar]]
+name = "Facebook"
+pre = "<i class='fa fa-2x fa-facebook'></i>"
+url = "http://facebook.com/pointtakenas"
+weight = 1
+[[menu.topbar]]
+name = "Twitter"
+pre = "<i class='fa fa-2x fa-twitter'></i>"
+url = "http://twitter.com/Point_Taken_"
+weight = 3
+[[menu.topbar]]
+name = "Email"
+pre = "<i class='fa fa-2x fa-envelope'></i>"
+url = "mailto:your@email.com"
+weight = 4
 [params]
 about_us = "<p>Spesialister på SharePoint og Office 365.</p>"
 address = "<p><strong>Point Taken</strong>\n        <br>Arbeidersamfunnets plass 1\n        <br>Inngang fra Torggata\n        <br>0181 Oslo\n        <br>\n        <strong>Norge</strong>\n      </p>\n      "
@@ -82,26 +70,18 @@ logo = "img/pt-logo.png"
 longitude = "10.751929"
 style = "red"
 viewmorepostlink = "/blog/"
-
-[params.splash]
-enable = true
-
 [params.carousel]
 enable = true
-
 [params.clients]
 enable = true
 subtitle = ""
 title = "Noen av våre klienter"
-
 [params.features]
 enable = true
-
 [params.recent_posts]
 enable = true
 subtitle = "Alle våre konsulenter blogger minst en gang i måneden. Minst. Her kan du lese alle våre goillkorn fra goillmoinn. Legg gjerne igjen en kommentar i kommentarfeltet dersom du ønsker."
 title = "Hva skjer i Point:Taken?"
-
 [params.see_more]
 enable = false
 icon = "fa fa-file-code-o"
@@ -109,16 +89,15 @@ link_text = "Ta kontakt i dag"
 link_url = "/pointtaken/contact/"
 subtitle = "Våre herrrligste konsulenter står klar for å motta et uforpliktende opprop fra DEM!"
 title = "Har du lyst til å tazte priv med oss?"
-
+[params.splash]
+enable = true
 [params.testimonials]
 enable = true
 subtitle = "Point taken har massevis av fornøyde kunder. Massevis! Dette er bare et lite knippe av alle vi har jobbet for og som MER enn gjerne stiller opp som referanser for oss."
 title = "Referanser"
-
 [params.topbar]
 enable = false
 text = ""
-
 [params.widgets]
 categories = true
 search = true

@@ -1,7 +1,8 @@
 ---
-title: "Microsoft365"
-date: 2017-11-24T14:26:29+01:00
-draft: false
+title: Microsoft365
+date: 2017-11-24 14:26:29 +0100
+type: page
+
 ---
 <div class="row splash w-microsoft365" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">

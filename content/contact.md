@@ -1,8 +1,9 @@
 +++
-title = "Kontakt"
 id = "contact"
-+++
+title = "Kontakt"
+type = "page"
 
++++
 # Vi er her for å hjelpe Dem!
 
 Lurer du på noe? Vi er her for å hjelpe Dem med nærsagt hva som helst! Hva. Som. Helst. Trenger du en hardisk med SharePoint? Vi har det. Trenger du en hardisk med CRM? Vi har det også. Begynner du å gå tom for Powershell i hardisken din? Ta det helt med ro, våre vakre konsulenter fyller opp tanken så full av Powershell at den flommer over!

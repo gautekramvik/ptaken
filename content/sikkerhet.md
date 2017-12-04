@@ -1,9 +1,9 @@
 ---
-title: "Sikkerhet"
-date: 2017-11-24T12:06:01+01:00
-draft: false
----
+title: Sikkerhet
+date: 2017-11-24 12:06:01 +0100
+type: page
 
+---
 <div class="row splash w-sikkerhet" style="margin-bottom:2rem">
     <div class="col-12 splash-wrapper">
         <div class="splash-slogan">Sikkerhetsløsninger for din virksomhet
