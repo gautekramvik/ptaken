@@ -8,7 +8,7 @@
     </div>
 
     <div class="panel-body">
-        <ul class="nav nav-pills nav-stacked">
+        <ul class="nav nav-pills nav-stacked flex-column">
             {{ range $name, $items := .Site.Taxonomies.categories }}
             <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a>
             </li>
