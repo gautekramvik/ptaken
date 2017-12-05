@@ -20,53 +20,41 @@ type: page
 
 <div class="row testimonials">
 <div class="col-lg-4 col-sm-6">
-    <div class="card hovercard">
-        <div class="avatar">
-            <img alt="" src="../img/people/sjef2.png">
-        </div>
-        <div class="info">
-            <div class="title">
-                <a target="_blank" href="http://www.pointtaken.no/">Sjef Tangen</a>
-            </div>
-            <div class="desc">Kjærlig Sjef</div>
-        </div>
-        <div class="bottom">
+    <div class="card">
+        <img class="card-img-top" alt="" src="../img/people/sjef2.png">
+        <div class="card-body">
+            <h4 class="card-title">Sjef Tangen</h4>
+        <p class="card-text">
         Hør her, jeg bryr meg filla om IT. Jeg vil bare sykle! Nå som jeg kjøper Microsoft365 av Point Taken, trenger jeg nesten ikke være på kontoret mer! Jeg kan sykle dagen lang! 
+        </p>            
         </div>
     </div>
 </div>
+
 <div class="col-lg-4 col-sm-6">
-    <div class="card hovercard">
-        <div class="avatar">
-            <img alt="" src="../img/people/sjef2.png">
-        </div>
-        <div class="info">
-            <div class="title">
-                <a target="_blank" href="http://www.pointtaken.no/">Sjef Tangen</a>
-            </div>
-            <div class="desc">Kjærlig Sjef</div>
-        </div>
-        <div class="bottom">
+    <div class="card">
+        <img class="card-img-top" alt="" src="../img/people/sjef2.png">
+        <div class="card-body">
+            <h4 class="card-title">Sjef Tangen</h4>
+        <p class="card-text">
         Hør her, jeg bryr meg filla om IT. Jeg vil bare sykle! Nå som jeg kjøper Microsoft365 av Point Taken, trenger jeg nesten ikke være på kontoret mer! Jeg kan sykle dagen lang! 
+        </p>            
         </div>
     </div>
 </div>
+
 <div class="col-lg-4 col-sm-6">
-    <div class="card hovercard">
-        <div class="avatar">
-            <img alt="" src="../img/people/sjef2.png">
-        </div>
-        <div class="info">
-            <div class="title">
-                <a target="_blank" href="http://www.pointtaken.no/">Sjef Tangen</a>
-            </div>
-            <div class="desc">Kjærlig Sjef</div>
-        </div>
-        <div class="bottom">
+    <div class="card">
+        <img class="card-img-top" alt="" src="../img/people/sjef2.png">
+        <div class="card-body">
+            <h4 class="card-title">Sjef Tangen</h4>
+        <p class="card-text">
         Hør her, jeg bryr meg filla om IT. Jeg vil bare sykle! Nå som jeg kjøper Microsoft365 av Point Taken, trenger jeg nesten ikke være på kontoret mer! Jeg kan sykle dagen lang! 
+        </p>            
         </div>
     </div>
 </div>
+
 </div>
 
 <div class="row background-blue ad-info">

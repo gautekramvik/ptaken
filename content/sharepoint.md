@@ -45,7 +45,6 @@ type: page
     </div>
 </div>
 
-
 <div class="row">
     <div class="col-sm-12 col-md-6 col-lg-3">
         <div class="card" style="min-height:333px">
