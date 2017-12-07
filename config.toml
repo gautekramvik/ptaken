@@ -18,29 +18,34 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "HVA VI KAN"
-url = "/index.html#3"
+name = "OM OSS"
+url = "/om-oss/"
 weight = 2
 
 [[menu.main]]
-name = "BLOG"
-url = "/blog/"
+name = "TJENESTER"
+url = "/index.html#3"
 weight = 3
-
-[[menu.main]]
-name = "OM OSS"
-url = "/om-oss/"
-weight = 4
-
-[[menu.main]]
-name = "KONTAKT"
-url = "/contact/"
-weight = 5
 
 [[menu.main]]
 name = "REFERANSER"
 url = "/index.html#testimonials"
+weight = 4
+
+[[menu.main]]
+name = "JOBB"
+url = "#"
+weight = 5
+
+[[menu.main]]
+name = "KONTAKT"
+url = "/contact/"
 weight = 6
+
+[[menu.main]]
+name = "BLOG"
+url = "/blog/"
+weight = 7
 
 [[menu.topbar]]
 name = "GitHub"
@@ -86,6 +91,7 @@ logo = "img/pt-logo.png"
 longitude = "10.751929"
 style = "red"
 viewmorepostlink = "/blog/"
+slagord = "Norges ledende kompetansemiljø på digital samhandling"
 
 [params.carousel]
 enable = true

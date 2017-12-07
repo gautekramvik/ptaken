@@ -1,10 +1,9 @@
 {{ if isset .Site.Params "carousel" }}
 {{ if .Site.Params.carousel.enable }}
 {{ if gt (len .Site.Data.carousel) 0 }}
-<section style="margin-bottom:0">
+<section class="karusell">
+    <div class="container">
     <div class="home-carousel" id="2">
-        <div class="dark-mask"></div>
-        <div class="container">
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
@@ -20,8 +19,8 @@
                 </div>
                 {{ end }}
             </div>
-            <!-- /.project owl-slider -->
         </div>
+            <!-- /.project owl-slider -->
     </div>
 </section>
 {{ end }}

@@ -77,9 +77,9 @@ button i.fa {
     text-align: center;
   }
 }
-p.lead {
+/* p.lead {
   margin-bottom: 40px;
-}
+} */
 section,
 div.section {
   margin-bottom: 40px;
@@ -1164,12 +1164,13 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel .owl-carousel {
   padding-top: 60px;
   padding-bottom: 20px;
+  /* color: red; */
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
 }
 .home-carousel .owl-theme .owl-controls .owl-page.active span {
-  background: #fff;
+  background: #f3732b;
 }
 .home-carousel .owl-theme .owl-controls .owl-page:hover span {
   background: #fff;
@@ -1189,7 +1190,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #fff;
+  color: #333838;
 }
 .home-carousel h1 {
   font-weight: 700;
@@ -1838,10 +1839,10 @@ fieldset[disabled] .btn-template-primary.active {
   line-height: 1.5;
   letter-spacing: 0.08em;
 }
-.portfolio-showcase p.lead {
+/* .portfolio-showcase p.lead {
   color: #555555;
   margin-bottom: 20px;
-}
+} */
 .portfolio-showcase p {
   color: #999999;
 }
@@ -3381,7 +3382,7 @@ h3,
 p {
   margin: 0 0 10px;
 }
-.lead {
+/* .lead {
   margin-bottom: 20px;
   font-size: 18px;
 }
@@ -3389,7 +3390,7 @@ p {
   .lead {
     font-size: 21px;
   }
-}
+} */
 .text-small {
   font-size: 12px;
 }

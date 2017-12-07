@@ -16,10 +16,14 @@ body {
   min-height: 230px;
   margin-bottom: 0;
 }
+.karusell {
+  background: gainsboro;
+}
 
 .home-carousel {
   background: none;
 }
+
 @media (max-width: 767px) {
   .navbar-nav {
     }
@@ -105,13 +109,23 @@ body {
 }
 
 .slagord {
-  height: 100vh;
-  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('../img/mountain.png');
+  /* height: 100vh; */
+  /* background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('../img/mountain.png'); */
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+  /* margin-top: -60px; */
+  /* padding-top: 10rem; */
+}
+
+.hero {
+  /* height: 100vh;
+  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('../img/polymountain.svg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   margin-top: -60px;
-  padding-top: 10rem;
+  padding-top: 10rem; */
 }
 
 @media (max-width: 992px) {
@@ -122,10 +136,10 @@ body {
 }
 
 .slagordtekst {
-  margin: 0 10%;
+  /* margin: 0 10%; */
   text-align: center;
-  font-size: 4em;
-  color: #fff;
+  font-size: 3.5em;
+  /* color: #fff; */
   font-family: 'Arvo';
   font-weight: 300;
 }
@@ -154,6 +168,14 @@ body {
   position: absolute;
   left: 50%;
   bottom: 1rem;
+}
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 3rem solid transparent;
+  border-right: 3rem solid transparent;
+  border-top: 3rem solid #e3d8fb;
+  margin-top: .5rem;
 }
   .slagord .arrow a {
     color: #f5f5f5;
