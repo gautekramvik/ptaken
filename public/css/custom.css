@@ -16,19 +16,23 @@ body {
   min-height: 230px;
   margin-bottom: 0;
 }
+.karusell {
+  background: gainsboro;
+}
 
 .home-carousel {
   background: none;
 }
+
 @media (max-width: 767px) {
   .navbar-nav {
     }
 }
-
 .navbar-light .navbar-nav .nav-link {
   font-size: 1.25em;
   font-weight: 600;
   color: rgb(51, 56, 56);
+  padding-right: 1rem;
 }
 @media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link {
@@ -105,27 +109,37 @@ body {
 }
 
 .slagord {
-  height: 100vh;
-  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('../img/mountain.png');
+  /* height: 100vh; */
+  /* background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('../img/mountain.png'); */
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+  /* margin-top: -60px; */
+  /* padding-top: 10rem; */
+}
+
+.hero {
+  /* height: 100vh;
+  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('../img/polymountain.svg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   margin-top: -60px;
-  padding-top: 10rem;
+  padding-top: 10rem; */
 }
 
 @media (max-width: 992px) {
   .slagord {
-    padding-top: 10rem;
+    padding-top: 5rem;
     margin-top: 0;
   }
 }
 
 .slagordtekst {
-  margin: 0 10%;
+  /* margin: 0 10%; */
   text-align: center;
-  font-size: 5em;
-  color: #fff;
+  font-size: 3.5em;
+  /* color: #fff; */
   font-family: 'Arvo';
   font-weight: 300;
 }
@@ -133,12 +147,6 @@ body {
 @media (max-width: 992px) {
   .slagordtekst {
     font-size: 2em;
-  }
-}
-
-@media (max-width: 767px) {
-  .slagordtekst {
-    font-size: 1.5em;
   }
 }
 
@@ -152,6 +160,7 @@ body {
 @media (max-width: 767px) {
   .slagord-sub {
     font-size: 1.25em;
+    display: none;
   }
 }
 .slagord .arrow {
@@ -159,6 +168,14 @@ body {
   position: absolute;
   left: 50%;
   bottom: 1rem;
+}
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 3rem solid transparent;
+  border-right: 3rem solid transparent;
+  border-top: 3rem solid #e3d8fb;
+  margin-top: .5rem;
 }
   .slagord .arrow a {
     color: #f5f5f5;
