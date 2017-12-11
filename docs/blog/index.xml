@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Point Taken</title>
+    <link>https://gautekramvik.github.io/ptaken/blog/</link>
+    <description>Recent content in Blogs on Point Taken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 07 Dec 2017 15:46:21 +0100</lastBuildDate>
+    
+	<atom:link href="https://gautekramvik.github.io/ptaken/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andre</title>
+      <link>https://gautekramvik.github.io/ptaken/blog/2017/12/07/andre/</link>
+      <pubDate>Thu, 07 Dec 2017 15:46:21 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/blog/2017/12/07/andre/</guid>
+      <description> Andre bloggpost </description>
+    </item>
+    
+    <item>
+      <title>Testblog</title>
+      <link>https://gautekramvik.github.io/ptaken/blog/2017/12/07/test/</link>
+      <pubDate>Thu, 07 Dec 2017 15:43:08 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/ptaken/blog/2017/12/07/test/</guid>
+      <description> Den første bloggposten </description>
+    </item>
+    
+  </channel>
+</rss>
