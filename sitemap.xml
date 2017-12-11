@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/ptaken/blog/2017/12/11/first/</loc>
+    <lastmod>2017-12-11T12:44:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/ptaken/blog/</loc>
+    <lastmod>2017-12-11T12:44:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/ptaken/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/ptaken/</loc>
+    <lastmod>2017-12-11T12:44:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
