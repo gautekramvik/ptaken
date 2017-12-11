@@ -1,5 +1,12 @@
 ---
-title: "First"
-date: 2017-12-11T12:44:21+01:00
+title: First
+date: 2017-12-11 12:44:21 +0100
+tags: []
+categories: []
+banner: ''
 draft: true
+
 ---
+### Første blog
+
+Tekst.
