@@ -1,6 +1,4 @@
 ---
-pages:
-- blog/nytt-blogginnlegg.md
 hide_body: false
 fields:
 - name: title
